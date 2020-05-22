@@ -1,0 +1,8 @@
+<html>
+	<head>
+		xss
+	</head>
+	<body>
+		<script>alert(1)</script>
+	</bdoy>
+</html>
